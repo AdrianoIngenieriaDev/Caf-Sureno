@@ -8,7 +8,7 @@ Sitio web para una cafetería de especialidad patagónica. Proyecto desarrollado
 
 ## 📸 Preview
 
-[![Preview de Café Sureño](img/screenshot.png)](https://adrianoingenieriadev.github.io/caf-sureno/)---
+[![Preview de Café Sureño](img/screenshot.png)](https://adrianoingenieriadev.github.io/}Caf-Sureno/)---
 
 ## 🛠️ Tecnologías
 
