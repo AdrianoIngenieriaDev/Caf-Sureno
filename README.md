@@ -2,7 +2,7 @@
 
 Sitio web para una cafetería de especialidad patagónica. Proyecto desarrollado como práctica de HTML y CSS puro, sin frameworks ni librerías.
 
-🔗 **[Ver demo en vivo](https://chitta456.github.io/cafe-sureno)**
+🔗 **[Ver demo en vivo]([https://chitta456.github.io/cafe-sureno](https://adrianoingenieriadev.github.io/Caf-Sureno/))**
 
 ---
 
@@ -48,10 +48,10 @@ cafe-sureno/
 
 1. Cloná el repositorio:
 ```bash
-git clone https://github.com/chitta456/cafe-sureno.git
+git clone [https://github.com/chitta456/cafe-sureno.git](https://github.com/AdrianoIngenieriaDev/Caf-Sureno).git
 ```
 2. Abrí `index.html` en tu navegador
 
 ---
 
-*Desarrollado por [chitta456](https://github.com/chitta456)*
+*Desarrollado por [AdrianoIngenieriaDev]([https://github.com/chitta456](https://github.com/AdrianoIngenieriaDev))*
